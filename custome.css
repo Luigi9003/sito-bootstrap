@@ -1,0 +1,19 @@
+.navbar {
+  background-color: black;
+  color-scheme: white;
+}
+
+.nav-link {
+  display: flex;
+  align-items: center;
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.3rem;
+  padding: 0.5rem;
+  text-decoration: none;
+  margin: 0;
+}
+
+.nav-link:hover {
+  background-color: rgba(50, 50, 6602, 0.5);
+}
